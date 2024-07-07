@@ -9,7 +9,7 @@ import 'package:bakeology/features/items/screens/items_list_screen.dart';
 import 'package:bakeology/features/items/services/item_service.dart';
 import 'package:bakeology/features/more/screens/more_screen.dart';
 import 'package:bakeology/features/store/screens/store_screen.dart';
-import 'package:bakeology/firebase_options.dart';
+import 'package:bakeology/utils/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
