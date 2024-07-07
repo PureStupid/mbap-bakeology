@@ -9,7 +9,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get: ^4.6.6
+  cupertino_icons: ^1.0.6
+  intl: ^0.19.0
+  firebase_core: ^2.32.0
+  get_it: ^7.7.0
+  cloud_firestore: ^4.15.9
+  firebase_auth: ^4.20.0
+  firebase_storage: ^11.6.11
+  image_picker: ^1.1.2
+  path: ^1.9.0
+  shared_preferences: ^2.2.3
 
 dev_dependencies:
   flutter_test:
@@ -23,7 +32,7 @@ flutter:
     # - assets/icons/bakeology-logo-white.png
     - assets/icons/facebook-icon.png
     - assets/icons/google-icon.png
-    - assets/images/white-loaf-temp.jpg
+    - assets/images/empty-item.png
     - assets/images/qr-code-temp.jpg
     - assets/images/image.png
   fonts:

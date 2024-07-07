@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769500266162",
+    "project_id": "bakeology-f66dc",
+    "storage_bucket": "bakeology-f66dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769500266162:android:69e31992d6952f155613ab",
+        "android_client_info": {
+          "package_name": "com.example.bakeology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOGy9sWqgTWZIAD6xRiXZFxDsvPFCSVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
